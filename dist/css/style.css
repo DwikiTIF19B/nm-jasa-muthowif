@@ -82,6 +82,23 @@ section {
 
 /*end faq*/
 
+
+/*box-support*/
+@media (max-width: 575px) {
+    .box-support img {
+        width: 300px;
+    }
+}
+
+/*end box-support*/
+
+/*blog*/
+.card .card-text {
+    font-size: small;
+}
+
+/*end blog*/
+
 /*footer*/
 .footer {
     margin-top: 100px;
