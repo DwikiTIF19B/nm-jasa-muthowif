@@ -98,6 +98,15 @@ section {
 }
 
 /*end blog*/
+/*pesan*/
+@media (max-width: 578px) {
+    .box-pesan img {
+        width: 300px;
+    }
+}
+
+/*end pesan*/
+
 
 /*footer*/
 .footer {
